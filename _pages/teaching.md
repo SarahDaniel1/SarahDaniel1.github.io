@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Graduate Student Instructor at UC Berkeley
+**Graduate Student Instructor at UC Berkeley**
 
 - **PS124H** — The Politics of Human Rights (Fall 2022)  
 - **DIGHUM 100** - Theory and Methods in the Digital Humanities (Summer 2023)
