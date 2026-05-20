@@ -7,6 +7,5 @@ author_profile: true
 
 ## Curriculum Vitae
 
-You can download my CV here:
-
-[Download CV (PDF)](/files/Daniel_CV.pdf)
+<iframe src="/files/Daniel_CV.pdf" width="100%" height="900px">
+</iframe>
