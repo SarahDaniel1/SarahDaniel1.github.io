@@ -1,6 +1,6 @@
 ---
 title: "Graduate Student Instructor at UC Berkeley"
-layout: single
+layout: double
 ---
 
 - PS124H: The Politics of Human Rights (Fall 2022)  
