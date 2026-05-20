@@ -9,4 +9,4 @@ author_profile: true
 
 You can download my CV here:
 
-[Download CV (PDF)](/files/Sarah_Daniel_CV.pdf)
+[Download CV (PDF)](/files/Daniel_CV.pdf)
