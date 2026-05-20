@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: ""
 permalink: /cv/
 layout: single
 author_profile: true
