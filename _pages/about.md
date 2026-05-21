@@ -12,4 +12,4 @@ My research centers on urban politics, with a particular focus on Sub-Saharan Af
 
 Movited by this work, I also develop open-source tools aimed at improving the measurement of political context and the design of community-based initiatives. These tools enable scholars and practitioners to capture and analyze drawn maps from survey respondents, which offer more precise measures of context and support the implementation of program design.
 
-Prior to coming to Berkeley, I earned my B.A. in International Studies from the University of California, Irvine. After graduating, I worked as a Research and Development Manager, where I evaluated rural development projects in Moshi, Tanzania.
+Prior to Berkeley, I earned my B.A. in International Studies from the University of California, Irvine. After graduating, I worked as a Research and Development Manager where I evaluated rural development projects in Moshi, Tanzania.
